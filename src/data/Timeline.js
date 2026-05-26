@@ -1,7 +1,7 @@
 const timeline = [
   {
     id: 1,
-    year: "ENTRY 01",
+    year: "22 January 2026",
 
     title: "we met again after six years",
 
@@ -12,7 +12,7 @@ const timeline = [
 
   {
     id: 2,
-    year: "ENTRY 02",
+    year: "19 March 2026",
 
     title: "we kept meeting again",
 
@@ -23,7 +23,7 @@ const timeline = [
 
   {
     id: 3,
-    year: "ENTRY 03",
+    year: "10 April 2026",
 
     title: "you started telling me things",
 
@@ -34,7 +34,7 @@ const timeline = [
 
   {
     id: 4,
-    year: "ENTRY 04",
+    year: "19 April 2026",
 
     title: "i asked if i had a chance",
 
@@ -45,7 +45,7 @@ const timeline = [
 
   {
     id: 5,
-    year: "ENTRY 05",
+    year: "6 May 2026",
 
     title: "i understood the answer",
 
@@ -56,7 +56,7 @@ const timeline = [
 
   {
     id: 6,
-    year: "ENTRY 06",
+    year: "11 May 2026",
 
     title: "everything stayed normal",
 
@@ -67,7 +67,7 @@ const timeline = [
 
   {
     id: 7,
-    year: "ENTRY 07",
+    year: "14 May 2026",
 
     title: "i think i am learning acceptance",
 
@@ -78,7 +78,7 @@ const timeline = [
 
   {
     id: 8,
-    year: "ENTRY 08",
+    year: "24 May 2026",
 
     title: "you were preparing to leave",
 
