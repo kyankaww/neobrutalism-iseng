@@ -39,7 +39,7 @@ export default function EndingRoom() {
         some things
         never fully end.
 
-        they just get quieter.
+        they just get quieter
       </Display>
 
       <div
@@ -64,7 +64,7 @@ export default function EndingRoom() {
       >
         this was never complete.
 
-        just preserved.
+        just preserved
       </p>
 
     </Section>

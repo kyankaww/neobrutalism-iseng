@@ -68,7 +68,7 @@ export default function HiddenMessages() {
         <Display className="max-w-5xl">
           Things
           that were
-          never sent.
+          never sent
         </Display>
 
         <Body
@@ -79,7 +79,7 @@ export default function HiddenMessages() {
           "
         >
           Some thoughts stayed drafts.
-          Some became permanent background noise.
+          Some became permanent background noise
         </Body>
 
       </div>

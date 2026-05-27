@@ -48,13 +48,13 @@ export default function Hero() {
                 <Display>
                     it was supposed
                     <br />
-                    to be just coffee.
+                    to be just coffee
                 </Display>
 
                 <Body className="max-w-[36rem] text-pretty">
                     but somehow,
                     the conversations stayed longer
-                    than either of us expected.
+                    than either of us expected
                 </Body>
 
                 <BrutalCard
@@ -70,7 +70,7 @@ export default function Hero() {
 
                     <p className="mt-4 text-lg">
                         some things here
-                        never really happened.
+                        never really happened
                     </p>
 
                 </BrutalCard>

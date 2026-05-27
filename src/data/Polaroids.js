@@ -6,7 +6,7 @@ const polaroids = [
       '/images/63.jpeg',
 
     note:
-      'you laughed before finishing your sentence.',
+      'you laughed before finishing your sentence',
 
     rotate:
       '-rotate-3',
@@ -18,7 +18,7 @@ const polaroids = [
       '/images/23.jpeg',
 
     note:
-      'everything felt temporary except that night.',
+      'everything felt temporary except that night',
 
     rotate:
       'rotate-4',
@@ -30,7 +30,7 @@ const polaroids = [
       '/images/52.jpeg',
 
     note:
-      'some silences were louder than words.',
+      'some silences were louder than words',
 
     rotate:
       '-rotate-2',
@@ -42,7 +42,7 @@ const polaroids = [
       '/images/72.jpeg',
 
     note:
-      'we kept pretending time was infinite.',
+      'we kept pretending time was infinite',
 
     rotate:
       'rotate-2',
@@ -54,7 +54,7 @@ const polaroids = [
       '/images/43.jpeg',
 
     note:
-      'the room still remembers your voice.',
+      'the room still remembers your voice',
 
     rotate:
       '-rotate-4',
@@ -66,7 +66,7 @@ const polaroids = [
       '/images/82.jpeg',
 
     note:
-      'nothing felt urgent until you left.',
+      'nothing felt urgent until you left',
 
     rotate:
       'rotate-3',
@@ -78,7 +78,7 @@ const polaroids = [
       '/images/51.jpeg',
 
     note:
-      'we archived moments instead of answers.',
+      'we archived moments instead of answers',
 
     rotate:
       '-rotate-1',
@@ -90,7 +90,7 @@ const polaroids = [
       '/images/49.jpeg',
 
     note:
-      'certain nights never fully ended.',
+      'certain nights never fully ended',
 
     rotate:
       'rotate-1',

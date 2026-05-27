@@ -5,7 +5,7 @@ const timeline = [
 
     title: "we met again after six years",
 
-    text: "the awkwardness only lasted a few minutes.",
+    text: "the awkwardness only lasted a few minutes",
 
     image: "/images/1.jpeg",
   },
@@ -16,7 +16,7 @@ const timeline = [
 
     title: "we kept meeting again",
 
-    text: "at some point, it stopped feeling accidental.",
+    text: "at some point, it stopped feeling accidental",
 
     image: "/images/21.jpeg",
   },
@@ -27,7 +27,7 @@ const timeline = [
 
     title: "you started telling me things",
 
-    text: "i think that was when the feeling changed.",
+    text: "i think that was when the feeling changed",
 
     image: "/images/3.jpeg",
   },
@@ -38,7 +38,7 @@ const timeline = [
 
     title: "i asked if i had a chance",
 
-    text: "you told me not to expect too much.",
+    text: "you told me not to expect too much",
 
     image: "/images/43.jpeg",
   },
@@ -49,7 +49,7 @@ const timeline = [
 
     title: "i understood the answer",
 
-    text: "that did not stop me from hoping anyway.",
+    text: "that did not stop me from hoping anyway",
 
     image: "/images/53.jpeg",
   },
@@ -60,7 +60,7 @@ const timeline = [
 
     title: "everything stayed normal",
 
-    text: "coffee, conversations, and small routines.",
+    text: "coffee, conversations, and small routines",
 
     image: "/images/61.jpeg",
   },
@@ -71,7 +71,7 @@ const timeline = [
 
     title: "i think i am learning acceptance",
 
-    text: "some people arrive before life allows them to stay.",
+    text: "some people arrive before life allows them to stay",
 
     image: "/images/71.jpeg",
   },
@@ -82,7 +82,7 @@ const timeline = [
 
     title: "you were preparing to leave",
 
-    text: "purwakarta started sounding farther than it should.",
+    text: "purwakarta started sounding farther than it should",
 
     image: "/images/81.jpeg",
   },

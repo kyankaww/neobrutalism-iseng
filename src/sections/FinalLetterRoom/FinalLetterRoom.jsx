@@ -37,14 +37,17 @@ export default function FinalLetterRoom() {
         </Mono>
 
         <Display className="max-w-5xl">
-          Some things
-          survive longer
-          in silence.
-        </Display>
+  i thought
+  silence would make it easier.
 
-        <Body className="max-w-2xl text-pretty">
-          This was never meant to be sent.
-        </Body>
+  it didn’t
+</Display>
+
+       <Body className="max-w-2xl text-pretty">
+  this was never finished.
+
+  just written down
+</Body>
 
       </div>
 

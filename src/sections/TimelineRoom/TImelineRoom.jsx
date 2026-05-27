@@ -50,7 +50,7 @@ export default function TimelineRoom() {
 
                 <Display className="max-w-5xl">
                     Some stories
-                    disappear slowly.
+                    disappear slowly
                 </Display>
 
                 <Body
@@ -60,7 +60,7 @@ export default function TimelineRoom() {
           "
                 >
                     Not every ending arrives all at once.
-                    Some leave in fragments.
+                    Some leave in fragments
                 </Body>
 
             </div>

@@ -51,14 +51,14 @@ export default function ArchiveWall() {
 
                 <Display className="max-w-5xl">
                     small things
-                    that stayed behind.
+                    that stayed behind
                 </Display>
 
                 <Body className="max-w-2xl text-pretty">
                     most of these
                     probably meant nothing.
 
-                    they stayed anyway.
+                    they stayed anyway
                 </Body>
 
             </div>

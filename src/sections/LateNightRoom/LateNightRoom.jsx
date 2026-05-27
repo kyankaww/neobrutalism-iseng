@@ -39,7 +39,7 @@ export default function LateNightRoom() {
                 <Display className="max-w-5xl">
                     some thoughts
                     become harder to ignore
-                    at night.
+                    at night
                 </Display>
 
                 <Body
@@ -52,7 +52,7 @@ export default function LateNightRoom() {
   things feel quieter here.
 
   unfortunately,
-  that leaves more room to think.
+  that leaves more room to think
 </Body>
 
             </div>

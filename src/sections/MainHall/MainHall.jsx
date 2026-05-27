@@ -55,7 +55,7 @@ export default function MainHall() {
     happened between us.
 
     somehow,
-    it still mattered.
+    it still mattered
 </Display>
 
 <Body
@@ -70,7 +70,7 @@ export default function MainHall() {
 
     after a while,
     the conversations stopped
-    feeling casual.
+    feeling casual
 </Body>
 
                 <div
@@ -90,7 +90,7 @@ export default function MainHall() {
 </Mono>
 
 <p className="mt-4 text-lg">
-    “don't expect too much.”
+    “don't expect too much”
 </p>
 
                     </BrutalCard>
@@ -103,7 +103,7 @@ export default function MainHall() {
 
 <p className="mt-4 text-lg">
     unfinished,
-    but still here.
+    but still here
 </p>
 
                     </BrutalCard>

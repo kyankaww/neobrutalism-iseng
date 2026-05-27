@@ -1,24 +1,24 @@
 const floatingQuotes = [
 
-  'some things stay without asking.',
+  'some things stay without asking',
 
-  'this was never meant to be complete.',
+  'this was never meant to be complete',
 
-  'archive still running.',
+  'archive still running',
 
-  'certain nights repeat quietly.',
+  'certain nights repeat quietly',
 
-  'nothing fully leaves.',
+  'nothing fully leaves',
 
-  'we kept fragments instead of endings.',
+  'we kept fragments instead of endings',
 
-  'silence stored this better than memory.',
+  'silence stored this better than memory',
 
-  'some versions still exist in passing.',
+  'some versions still exist in passing',
 
-  'preserved without intention.',
+  'preserved without intention',
 
-  'this place remembers more than it should.',
+  'this place remembers more than it should',
 
 ]
 

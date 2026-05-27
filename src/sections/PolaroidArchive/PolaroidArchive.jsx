@@ -48,7 +48,7 @@ export default function PolaroidArchive() {
 <Display className="max-w-4xl">
     some moments
     started meaning more
-    later.
+    later
 </Display>
 
 <Body
@@ -62,7 +62,7 @@ export default function PolaroidArchive() {
 
     i think that's why
     i didn't notice
-    how attached i was getting.
+    how attached i was getting
 </Body>
 
             </div>
