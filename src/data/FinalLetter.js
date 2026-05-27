@@ -1,15 +1,29 @@
 const finalLetter = `
-i think i understood something too late. not everything that feels close is meant to become something, even if at some point it feels like it could. we kept talking, kept meeting, and kept finding reasons to stay in each other’s lives as if nothing was changing, but slowly it was. it wasn’t a sudden shift, more like a series of small moments that we didn’t really talk about. the way conversations started feeling a little different, the way silence wasn’t as uncomfortable anymore, the way we both probably noticed something but chose not to say it out loud.
+i think the confusing part was that nothing ever felt forced. we met again after years of being strangers, and somehow the conversations became easy almost immediately. at first, i really thought it was just going to be coffee and casual talks every now and then, nothing more than two people catching up after a long time.
 
-i think we were both aware in our own way, but we never really defined anything, and maybe that’s what made it harder to understand later. because when nothing is clearly started, nothing can really be clearly ended either. it just continues in a different form, without explanation.
+but somewhere along the way, something changed for me.
 
-there were moments where i tried to figure out what this was, or where it was going, but every time i got close to a conclusion, something would pull it back into uncertainty. and over time, i stopped looking for answers as much as i just stayed in it, even without knowing what “it” really was.
+not suddenly. not dramatically. it happened slowly through conversations, through the way you listened, the way you laughed before finishing a story, the way talking to you started becoming the calmest part of my days.
 
-maybe it was never supposed to become something official or defined. maybe it was just a part of time in my life where someone felt close enough to matter, but not close enough to fully become mine in any way. i don’t say that with anger, just with understanding.
+and i think that’s why this became difficult to explain.
 
-and even now, after everything has become more distant and quieter, it still exists in my mind in a very specific way. not as something i lost, but as something that never fully became clear enough to categorize. something that happened, stayed for a while, and then slowly became part of memory instead of reality.
+because you were honest from the beginning. you told me not to expect too much. you said you still couldn’t process your feelings completely, and that you hadn’t found that spark again yet. i understood that. i still do.
 
-i think that’s what i’m still trying to make peace with. not the ending, but the fact that it never really had one.
+but understanding something and feeling something are very different things.
+
+so even after hearing that, i stayed.
+
+not because i wanted to force anything, and not because i expected you to suddenly change your mind one day. i stayed because being close to you already meant something to me, even in this unclear form.
+
+maybe that sounds unfair to myself sometimes, but strangely, it never really felt wrong.
+
+i think part of me is still waiting quietly. not in a dramatic way, not like life has stopped moving, but more like carrying a small hope that never completely leaves. and honestly, if waiting for a long time eventually leads back to you, i think i would still call it worth it.
+
+maybe nothing officially started between us. maybe this story never became what i once imagined it could be. but i don’t think that makes it meaningless.
+
+some people enter your life loudly. others arrive quietly and still manage to leave permanent things behind.
+
+i think you were one of those people.
 `
 
 export default finalLetter

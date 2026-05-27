@@ -5,34 +5,27 @@ export default function LetterPaper({
   return (
     <div
       className="
-      relative
-
-      bg-[#F5F5F5]
-      text-[#111]
-
-      border-[4px]
-      border-[#111]
-
-      shadow-[10px_10px_0px_#111]
-
-      p-8
-      md:p-14
-
-      w-full
-
-max-w-3xl
-lg:max-w-[90%]
-2xl:max-w-[1600px]
+w-full
+max-w-5xl
 
 mx-auto
 
-      rotate-[-1deg]
+bg-[#fffdf7]
 
-      transition-all
-      duration-300
+border-[4px]
+border-[#111]
 
-      md:hover:-translate-y-2
-      "
+p-6
+md:p-10
+
+shadow-[8px_8px_0_#111]
+
+transition-all
+duration-300
+
+md:rotate-[-1deg]
+md:hover:rotate-0
+"
     >
 
       {/* paper fold */}

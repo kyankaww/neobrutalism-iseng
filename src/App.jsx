@@ -15,6 +15,7 @@ import EndingRoom from './sections/EndingRoom/EndingRoom'
 import LoaderScreen from './components/system/LoaderScreen'
 import AmbientAudio from './components/system/AmbientAudio'
 import Vignette from './components/system/Vignette'
+import SoundtrackRoom from './sections/SoundtrackRoom/SoundtrackRoom'
 
 
 export default function App() {
@@ -43,6 +44,8 @@ export default function App() {
       <PolaroidArchive />
 
       <TimelineRoom />
+
+      <SoundtrackRoom />
 
       <HiddenMessages />
 
