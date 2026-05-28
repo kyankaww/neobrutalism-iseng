@@ -16,6 +16,7 @@ import LoaderScreen from './components/system/LoaderScreen'
 import AmbientAudio from './components/system/AmbientAudio'
 import Vignette from './components/system/Vignette'
 import SoundtrackRoom from './sections/SoundtrackRoom/SoundtrackRoom'
+import AdjustmentRoom from './sections/AdjustmentRoom/AdjustmentRoom'
 
 
 export default function App() {
@@ -52,6 +53,8 @@ export default function App() {
       <ArchiveWall />
 
       <LateNightRoom />
+
+      <AdjustmentRoom />
 
       <FinalLetterRoom />
 
